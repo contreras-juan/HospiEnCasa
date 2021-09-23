@@ -6,11 +6,13 @@ namespace HospiEnCasa.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        public DbSet<Persona> Persona {get;set;}
-        public DbSet<Enfermeria> Enfermeria {get;set;}
-        public DbSet<FamiliarDesignado> FamiliarDesignado {get;set}
+        public DbSet<Persona> Personas {get;set;}
+        public DbSet<Paciente> Pacientes {get;set;}
+        public DbSet<Medico> Medicos {get;set;}
+        public DbSet<Enfermera> Enfermeras {get;set;}
+        public DbSet<FamiliarDesignado> FamiliaresDesignados {get;set;}
+        public DbSet<SignoVital> SignosVitales {get;set;}
         public DbSet<Historia> Historia {get;set;}
-        public DbSet<Medico> Medico {get;set;}
         public DbSet<SugerenciaCuidado> SugerenciaCuidado {get;set;}
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

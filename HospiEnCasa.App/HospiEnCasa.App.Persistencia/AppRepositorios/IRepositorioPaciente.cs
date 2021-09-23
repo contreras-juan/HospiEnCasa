@@ -3,11 +3,11 @@ using HospiEnCasa.App.Dominio;
 
 namespace HospiEnCasa.App.Persistencia
 {
-    public interface IrepositorioPaciente
+    public interface IRepositorioPaciente
     {
         IEnumerable<Paciente> GetAllPacientes();
 
-        paciente AddPaciente(Paciente paciente);
+        Paciente AddPaciente(Paciente paciente);
 
         Paciente UpdatePaciente(Paciente paciente);
 
