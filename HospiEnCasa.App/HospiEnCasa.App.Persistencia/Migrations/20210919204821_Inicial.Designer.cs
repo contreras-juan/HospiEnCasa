@@ -41,7 +41,7 @@ namespace HospiEnCasa.App.Persistencia.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Persona");
+                    b.ToTable("Personas");
                 });
 #pragma warning restore 612, 618
         }

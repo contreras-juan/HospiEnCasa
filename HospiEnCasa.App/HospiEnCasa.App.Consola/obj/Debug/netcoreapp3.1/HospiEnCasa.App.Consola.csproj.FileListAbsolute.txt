@@ -4,11 +4,9 @@ C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.dev.json
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
-C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -66,3 +64,5 @@ C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.genruntimeconfig.cache
+C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
